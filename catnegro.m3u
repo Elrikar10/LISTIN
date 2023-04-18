@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#0
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/0.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",#Vamos
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/vamos.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AMC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/amc.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AXN
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",AXN White
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.white.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Antena 3
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/antena.3.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",BE MAD
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/be.mad.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Barca TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/barca.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",COSMO
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cosmo.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Calle 13
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/calle.13.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal Decasa
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.decasa.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Cuatro
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cuatro.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DKISS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dkiss.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",DMAX
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/dmax.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Discovery
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/discovery.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Sport",EUROSPORT 1
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579895.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Energy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/energy.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FDF Telecinco
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fdf.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",FOX Life
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Gol
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/gol.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Historia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/historia.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",LALIGA TV BAR
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579880.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",La 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/la.2.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",M. CINE ESPAÑOL
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579751.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",M. COMEDIA
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579745.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",M. DREAMWORKS
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579773.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. LaLiga 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.laliga.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. Liga de Campeones
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.liga.de.campeones.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",M. Liga de Campeones 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/m.liga.de.campeones.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",MEGA
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579640.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Moviestar Estrenos 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.estrenos.2.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Accion
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.accion.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Comedia
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.comedia.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar DCine
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.dcine.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Sport",Movistar Deportes
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.deportes.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Estrenos
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.estrenos.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Formula 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.formula.1.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Movistar Series
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/movistar.series.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",NICKELODEON
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579771.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",NatGeo
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Neox
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/neox.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Odisea
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/odisea.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",PARAMOUNT CHANNEL
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579693.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Syfy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TCM
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tcm.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",TNT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tnt.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Telecinco
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telecinco.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Teledeporte
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/teledeporte.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Telemadrid
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/telemadrid.es.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",laSexta
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/lasexta.es.m3u8?checkedby:iptvcat.com
